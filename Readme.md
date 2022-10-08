@@ -1,6 +1,8 @@
 Math for Game Developers Sample Code
 ====================================
 
+See also: https://www.youtube.com/watch?v=kxWBXd7ujx0
+
 This is the source code for the sample code that I use in my [Math for Game Developers YouTube series](http://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My). If you want to follow along with the videos, you can download by clicking the 'ZIP' button in the header near the top of this page.
 
 Overview
